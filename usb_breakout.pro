@@ -1,4 +1,4 @@
-update=Mon 11 May 2020 03:56:24 PM JST
+update=Thu 14 May 2020 01:37:08 PM JST
 version=1
 last_client=kicad
 [general]
@@ -37,10 +37,10 @@ ViaDrill1=0.4
 dPairWidth1=0.2
 dPairGap1=0.25
 dPairViaGap1=0.25
-SilkLineWidth=0.12
+SilkLineWidth=0.153
 SilkTextSizeV=1
 SilkTextSizeH=1
-SilkTextSizeThickness=0.15
+SilkTextSizeThickness=0.153
 SilkTextItalic=0
 SilkTextUpright=1
 CopperLineWidth=0.2
